@@ -28,7 +28,7 @@ for (let i = 1; i <= 100; i++) {
 
 //  Task-3:
 
-
+//  Task-3:
 for (let i = 1; i <= 100; i++) {
   console.log(i);
   if (i % 4 === 0 || i % 9 === 0 || i % 16 === 0) {
@@ -36,6 +36,7 @@ for (let i = 1; i <= 100; i++) {
     break;
   }
 }
+
 
 // part 2 javascript
 // Task 1
@@ -96,13 +97,13 @@ for (let i = 1; i <= 10; i++) {
 }
 
 
-function countdown(start, end) {
-  for (let i = start; i >= end; i--) {
-      console.log(i);
-  }
-}
+// function countdown(start, end) {
+//   for (let i = start; i >= end; i--) {
+//       console.log(i);
+//   }
+// }
 
-countdown(81, 65);
+// countdown(81, 65);
 
 // This code will print the numbers from 81 to 65 in the c
 
